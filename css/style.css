@@ -34,13 +34,13 @@ p{
     position: absolute;
 }
 .title a.forking{
-    left: 10%;
+    left: 9%;
     top: 50;
 }
 .title a.paths{
-    left: 30%;
+    left: 50%;
     font-size: 200px;
-    top:-50;
+    top:-100;
 
 }
 
