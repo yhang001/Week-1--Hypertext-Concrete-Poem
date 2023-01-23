@@ -3,11 +3,11 @@
 
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    /* font-family: Georgia, serif; */
+
 }
 
 h1{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 p{
@@ -18,7 +18,7 @@ p{
     width:800px;
     margin: 0 auto;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 200px;
 }
 
 /* When giving a child element position absolute you should give the parent position value as well */
@@ -35,7 +35,7 @@ p{
 }
 .title a.forking{
     left: 16%;
-    font-size: 5px;
+    font-size: 10px;
 }
 .title a.paths{
     left: 50%;
