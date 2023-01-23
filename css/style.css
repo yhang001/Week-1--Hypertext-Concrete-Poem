@@ -17,7 +17,7 @@ p{
 .centered-wrapper{
     width:800px;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     padding-top: 150px;
 }
 
@@ -35,13 +35,13 @@ p{
 }
 .title a.forking{
     left: 13%;
-    font-size: 30px;
+    font-size: 20px;
     top: 30;
 }
 .title a.paths{
     left: 50%;
     font-size: 200px;
-    top:-30;
+    top:-50;
 
 }
 
