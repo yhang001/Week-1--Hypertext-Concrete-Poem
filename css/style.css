@@ -2,11 +2,12 @@
 /*This is a comment in CSS*/
 
 body{
-    font-family: Georgia, serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: Georgia, serif; */
 }
 
 h1{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 p{
@@ -34,7 +35,7 @@ p{
 }
 .title a.forking{
     left: 16%;
-    top : 40%;
+    font-size: 5px;
 }
 .title a.paths{
     left: 50%;
