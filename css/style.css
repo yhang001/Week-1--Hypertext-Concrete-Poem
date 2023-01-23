@@ -18,7 +18,7 @@ p{
     width:800px;
     margin: 0 auto;
     text-align: center;
-    padding-top: 200px;
+    padding-top: 150px;
 }
 
 /* When giving a child element position absolute you should give the parent position value as well */
@@ -34,12 +34,14 @@ p{
     position: absolute;
 }
 .title a.forking{
-    left: 16%;
-    font-size: 10px;
+    left: 10%;
+    font-size: 30px;
+    top: 30;
 }
 .title a.paths{
     left: 50%;
     font-size: 200px;
+    top:-30;
 
 }
 
