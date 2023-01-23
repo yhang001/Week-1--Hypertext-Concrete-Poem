@@ -7,7 +7,7 @@ body{
 }
 
 h1{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 p{
@@ -34,9 +34,8 @@ p{
     position: absolute;
 }
 .title a.forking{
-    left: 13%;
-    font-size: 20px;
-    top: 30;
+    left: 14%;
+    top: 50;
 }
 .title a.paths{
     left: 50%;
