@@ -33,7 +33,8 @@ p{
     position: absolute;
 }
 .title a.forking{
-    left: 20%;
+    left: 16%;
+    top : 20%;
 }
 .title a.paths{
     left: 50%;
