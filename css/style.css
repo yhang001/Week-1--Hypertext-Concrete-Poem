@@ -19,6 +19,9 @@ p{
     text-align: left;
     padding-top: 150px;
 }
+.centered-wrapper.semicolon{
+    font-size: 200px;
+}
 
 /* When giving a child element position absolute you should give the parent position value as well */
 /* The child will then be positioned absolute in realtion to the box container of the parent */
