@@ -3,7 +3,6 @@
 
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
 }
 
 h1{
@@ -41,7 +40,6 @@ p{
     left: 50%;
     font-size: 200px;
     top:-100;
-
 }
 
 a.dead-link:hover{
