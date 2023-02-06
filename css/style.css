@@ -28,7 +28,6 @@ p{
 /* positioning elements on the page is fundamental to understanding CSS: https://developer.mozilla.org/en-US/docs/Web/CSS/position */
 .title{
     position: relative;
-    width: 350px;
     text-align: left;
     margin: 0 auto;
 }
@@ -47,8 +46,4 @@ p{
 
 a.dead-link:hover{
     opacity: 0;
-}
-
-span#ghost{
-    opacity: 0.4;
 }
