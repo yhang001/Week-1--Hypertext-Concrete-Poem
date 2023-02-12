@@ -35,8 +35,8 @@ p{
     position: relative;
 }
 .title a.forking{
-    left: 9%;
     top: 50;
+
 }
 .title a.paths{
     left: 50%;
