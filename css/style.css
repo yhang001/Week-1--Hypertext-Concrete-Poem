@@ -35,13 +35,12 @@ p{
     position: relative;
 }
 .title a.forking{
-    top: 50;
+    font-size: 30px;
 
 }
 .title a.paths{
-    left: 50%;
+    left: 30%;
     font-size: 200px;
-    top:-100;
 }
 
 a.dead-link:hover{
