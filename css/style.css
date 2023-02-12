@@ -2,7 +2,7 @@
 /*This is a comment in CSS*/
 
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: "Fira Sans", serif;
 }
 
 h1{
